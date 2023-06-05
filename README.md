@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student at ISEP<br>Develloper at JuniorIsep<br>Technical manager at Junior ISEP
+Student at ISEP<br>Develloper at IsepInvest<br>Technical manager at Junior ISEP
 
 
 # 💻 Tech Stack:
